@@ -2,6 +2,4 @@
 
 This is the readme file for the Tech Returners practice assignments and material. 
 
-I have a lot to get through and I'm faffing writing this instead of cracking on. 
-
-Best check it in and stop faffing. 
+The c file in this repo was created as part of a paired programming exercise where our task was to count the number of button presses it would take to move a cursor around a grid of letters and numbers to create a particular string. Classic codewars challenge.
